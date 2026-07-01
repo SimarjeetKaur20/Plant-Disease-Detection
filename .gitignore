@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+models/*.pth
+
+results/*.json
+results/*.png
+
+.vscode/
+
+.env
+
+.ipynb_checkpoints/
+
+.DS_Store
+
+Thumbs.db
